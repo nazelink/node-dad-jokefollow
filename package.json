@@ -1,0 +1,20 @@
+{
+  "name": "dad-jokefollow",
+  "version": "0.0.1",
+  "description": "Produces dad jokes in color",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "dad",
+    "joke"
+  ],
+  "author": "Ryan Hilton",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "npm": "^6.4.1",
+    "request": "^2.88.0"
+  }
+}
